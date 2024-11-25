@@ -23,5 +23,5 @@ Selamat datang di **WhatsApp Bot**, sebuah bot berbasis [Baileys WhiskeySockets]
 
 ### 1️⃣ Kloning Repositori  
 ```bash
-git clone https://github.com/Nazand/whatsapp-bot.git
+git clone https://github.com/ZanOCEH/Dasar-data-pairing.git
 cd whatsapp-bot
