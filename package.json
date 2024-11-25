@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "WhatsApp Bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^9.0.0",
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.11.0",
+    "chalk": "^5.0.0"
+  },
+  "devDependencies": {},
+  "author": "NazandKode",
+  "license": "MIT"
+}
