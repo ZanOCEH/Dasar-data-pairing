@@ -18,10 +18,3 @@ Selamat datang di **WhatsApp Bot**, sebuah bot berbasis [Baileys WhiskeySockets]
 4. Terminal (Command Prompt, Bash, atau PowerShell)  
 
 ---
-
-## 📥 Instalasi  
-
-### 1️⃣ Kloning Repositori  
-```bash
-git clone https://github.com/ZanOCEH/Dasar-data-pairing.git
-cd whatsapp-bot
